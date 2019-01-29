@@ -1,0 +1,51 @@
+import React from 'react'
+
+export class LoginInicio extends React.Component {
+  render() {
+    return (
+      <div className="main-content">
+        <div id="login-inicio">
+          <h1>Login e Inicio</h1>
+            <img
+            src="https://1.bp.blogspot.com/-RY14hO7pKYU/W-MLpPbrW7I/AAAAAAAAAd8/cNJw5jivIuAFugns0Hctb5fRN3JzHBFSgCLcBGAs/s1600/LOGIN_WALLEG.png"
+            alt="Tela de Login Walleg"/>
+          <p>Na figura acima há três caixas, que correspondem respectivamente à:</p>
+            <ol>
+              <li>Usuário;</li>
+              <li>Senha;</li>
+              <li>Empresa.</li>
+            </ol>
+          <p>Sua função é <strong>logar</strong> o usuário no sistema Walleg; para que isso ocorra sem qualquer tipo de erro,
+          é necessário o usuário estar cadastrado no sistema. Depois, preencha as caixas com as informações pedidas.</p>
+          <p>OBS.: A caixa “Empresa” é preenchida <em>automaticamente</em> quando é inserido um banco de dados no sistema.</p>
+            <ul>
+              <li> Considerações Importantes: </li>
+            </ul>
+          <p>Para que o usuário tenha a disponibilidade de entrar no sistema, criar/remover ou alterar os usuários,
+          o Walleg vem com uma senha padrão, sendo esta:</p>
+          <p><em>Usuário: master</em></p>
+          <p><em>Senha: 1</em></p>
+          <p>É recomendado que se crie outro usuário com as configurações desejadas.
+          Para criar um <strong>novo usuário</strong>, basta entrar no Walleg com o usuário padrão e selecionar a opção <u>Usuários</u>.
+            <img id="icone-usuarios"
+            src="https://4.bp.blogspot.com/-_gcJ9hkKIUU/W-MMMoI9ykI/AAAAAAAAAeE/IKiW8kKVvbsilDnffD-hVnppUiBnZmEXwCLcBGAs/s1600/Usuarios%2Bbotao.png"
+            alt="Botão de Usuários Walleg"/>
+            </p>
+            <img
+            src="https://4.bp.blogspot.com/-90vuKGVEgWc/W-RiRk41h4I/AAAAAAAAAeQ/LkAGVIWzl9oLpwbwYIogrjBWXVSvscSyACLcBGAs/s1600/Usuarios%2Bbarra%2Bferramentas.png"
+            alt ="Barra de Ferramentas de Usuarios Walleg"/>
+            <ul>
+              <li>Liberar usuário: Caso houver uma queda de sistema, utilize essa opção para liberar um novo acesso ao usuário.</li>
+              <li>Clonar: Utiliza das permissões e acessos de um usuário já existente para fornecer acesso a outro usuário.</li>
+              <li>Novo: Cria um novo usuário.</li>
+              <li>Editar: Edita informações de um usuário já existente.</li>
+              <li>Excluir: Exclui um usuário.</li>
+              <li>Funções: Cria, edita ou exclui funções do usuário.</li>
+              <li>Permissão: Recria permissões do usuário.</li>
+              <li>Imprimir: Imprimir a lista de usuários.</li>
+            </ul>
+      </div>
+      </div>
+    )
+  }
+}

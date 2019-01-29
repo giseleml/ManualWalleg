@@ -1,0 +1,13 @@
+@import '_variables.scss';
+
+::-webkit-scrollbar-track{
+	background-color: LightSlateGrey;
+}
+::-webkit-scrollbar{
+	width: 10px;
+}
+::-webkit-scrollbar-thumb{
+	background-color: $lilac-color;
+	border-radius: 2px;
+	-webkit-box-shadow: inset 0px 2px 6px rgba(0,0,0,0.3);
+}

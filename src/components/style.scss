@@ -1,0 +1,73 @@
+@import '_variables.scss';
+
+  body{
+    background-image: $bg-color;
+  }
+  .main-content {
+    h1{
+      font-family: 'Shadows Into Light Two', cursive;
+      font-size: 2.5rem;
+      font-weight: lighter;
+      color: white;
+      text-align: center;
+      text-shadow: 2px 2px 15px $golden-light;
+    }
+    p{
+      font-family: $default-font;
+      font-size: 1.1rem;
+      color: #d1e0e0;
+      display: block;
+      text-align: left;
+      margin-left: 18rem;
+      line-height: 2rem;
+    }
+    ul, li, ol{
+      font-family: $default-font;
+      font-size: 0.9rem;
+      color: #eacda3;
+      text-align: left;
+      margin-left: 9rem;
+      line-height: 2rem;
+    }
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 32rem;
+      max-height: 32rem;
+    }
+
+  //Ajustamento das imagens dos icones para ficarem na mesma linha de seu parágrafo,
+  //sem serem afetados pela propriedade 'margin' das outras imagens.
+    #icone-usuarios{
+      margin-left: 17rem;
+    }
+    #icone-clientes{
+      margin-left: 31rem;
+    }
+    #icone-fornecedores{
+      margin-left: 36rem;
+    }
+    #icone-produtos{
+      margin-left: 32rem;
+    }
+    #icone-caixa{
+      margin-left: 26rem;
+    }
+    #icone-compras{
+      margin-left: 29rem;
+    }
+    #icone-orçamentos{
+      margin-left: 31rem;
+    }
+    #icone-nfs{
+      margin-left: 36rem;
+    }
+    #icone-nfe{
+      margin-left: 37rem;
+    }
+  //fim
+  }
+  .up-arrow {
+    visibility: hidden;
+  }

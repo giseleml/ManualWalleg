@@ -1,0 +1,11 @@
+//Fontes
+$default-font: 'Quicksand', sans-serif;
+//Cores
+$beige-color: #eacda3;
+$golden-light: #DBD65C;
+$bg-color: linear-gradient(to right, #2b5876 0%, #4e4376 100%);
+$lilac-color: #d4cfe2;
+//Medidas
+@mixin alinhamento($rem){
+  margin-left: $rem;
+}
