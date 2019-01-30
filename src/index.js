@@ -59,7 +59,7 @@ class Manual extends React.Component {
       <Nfs/>
       <NotaDeEntrada/>
       <RelatorioDeMov/>
-      <UpArrow/>
+      <UpArrow />
       </div>
     )
   }
