@@ -17,7 +17,7 @@ export class UpArrow extends React.Component {
 
   componentDidMount() {
     window.onscroll = () => {
-      if (window.pageYOffset >= 400) {
+      if (window.pageYOffset >= 800) {
         return this.setState({ isVisible: true})
       }
       return this.setState({ isVisible: false})
