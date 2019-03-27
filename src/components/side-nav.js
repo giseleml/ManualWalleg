@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 export class SideNav extends React.Component {
   render() {
@@ -8,28 +9,28 @@ export class SideNav extends React.Component {
         <img id="logo-walleg" src="http://walleg.com.br/Img/logo.png" alt = "Logo Walleg"/>
       </div>
       <div className="side-nav">
-           <a href="#login-inicio">Login e Início</a>
-           <a href="#tela-de-inicio">Tela de Início</a>
-           <a href="#cadastros">Cadastros</a>
-           <a href="#bancos">Bancos</a>
-           <a href="#clientes">Clientes</a>
-           <a href="#fornecedores">Fornecedores</a>
-           <a href="#funcionarios">Funcionários</a>
-           <a href="#produtos">Produtos</a>
-           <a href="#estoque">Estoque</a>
-           <a href="#retira">Retira</a>
-           <a href="#catalogo-de-kits">Catálogo de Kits</a>
-           <a href="#transportadoras">Transportadoras</a>
-           <a href="#caixa">Caixa</a>
-           <a href="#compras">Compras</a>
-           <a href="#orcamentos">Orçamentos</a>
-           <a href="#pedido-de-venda">Pedido de Venda</a>
-           <a href="#nfs-e">Nota Fiscal de Serviço (NFS-e)</a>
-           <a href="#nfs">Nota Fiscal de Saída</a>
-           <a href="#nota-de-entrada">Nota Fiscal de Entrada</a>
-           <a href="#relatorio-de-mov">Relatório de Movimento</a>
-         </div>
-       </div>
+        <Link to="/">Login e Início</Link>
+        <Link to="/tela-inicial">Tela de Início</Link>
+        <Link to="/cadastros">Cadastros</Link>
+        <Link to="/bancos">Bancos</Link>
+        <Link to="/clientes">Clientes</Link>
+        <Link to="/fornecedores">Fornecedores</Link>
+        <Link to="/funcionarios">Funcionários</Link>
+        <Link to="/produtos">Produtos</Link>
+        <Link to="/estoque">Estoque</Link>
+        <Link to="/retira">Retira</Link>
+        <Link to="/kits">Catálogo de Kits</Link>
+        <Link to="/transportadoras">Transportadoras</Link>
+        <Link to="/caixa">Caixa</Link>
+        <Link to="/compras">Compras</Link>
+        <Link to="orcamentos">Orçamentos</Link>
+        <Link to="/pedido-de-venda">Pedido de Venda</Link>
+        <Link to="/nfs-e">Nota Fiscal de Serviço (NFS-e)</Link>
+        <Link to="/nfs">Nota Fiscal de Saída</Link>
+        <Link to="/nota-de-entrada">Nota Fiscal de Entrada</Link>
+        <Link to="/relatorio">Relatório de Movimento</Link>
+      </div>
+     </div>
     )
   }
 }

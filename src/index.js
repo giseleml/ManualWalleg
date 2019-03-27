@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 
-import './components/style.scss';
+
+import './components/main.scss';
 import './components/header.scss';
 import './components/arrow.scss';
 import './components/side-nav.scss';
@@ -36,31 +38,34 @@ import { RelatorioDeMov } from './relatorio-de-mov.js'
 class Manual extends React.Component {
   render(){
     return(
-      <div>
-      <Header/>
-      <SideNav/>
-      <LoginInicio/>
-      <TelaDeInicio/>
-      <Cadastros/>
-      <Bancos/>
-      <Clientes/>
-      <Fornecedores/>
-      <Funcionarios/>
-      <Produtos/>
-      <Estoque/>
-      <Retira/>
-      <CatalogoKits/>
-      <Transportadoras/>
-      <Caixa/>
-      <Compras/>
-      <Orcamentos/>
-      <PedidoDeVenda />
-      <Nfse/>
-      <Nfs/>
-      <NotaDeEntrada/>
-      <RelatorioDeMov/>
-      <UpArrow />
-      </div>
+      <BrowserRouter>
+        <Header/>
+        <SideNav/>
+        <Switch>
+          <Route exact path="/" component={LoginInicio} />
+          <Route path="/tela-inicial" component={TelaDeInicio} />
+          <Route path="/cadastros" component={Cadastros} />
+          <Route path="/bancos" component={Bancos} />
+          <Route path="/clientes" component={Clientes} />
+          <Route path="/fornecedores" component={Fornecedores} />
+          <Route path="/funcionarios" component={Funcionarios} />
+          <Route path="/produtos" component={Produtos} />
+          <Route path="/estoque" component={Estoque} />
+          <Route path="/retira" component={Retira} />
+          <Route path="/kits" component={CatalogoKits} />
+          <Route path="/transportadoras" component={Transportadoras} />
+          <Route path="/caixa" component={Caixa} />
+          <Route path="/compras" component={Compras} />
+          <Route path="/orcamentos" component={Orcamentos} />
+          <Route path="/pedido-de-venda" component={PedidoDeVenda} />
+          <Route path="/nfs-e" component={Nfse} />
+          <Route path="/nfs" component={Nfs} />
+          <Route path="/nota-de-entrada" component={NotaDeEntrada} />
+          <Route path="/relatorio" component={RelatorioDeMov} />
+          <Redirect to="/" />
+        </Switch>
+        <UpArrow />
+      </BrowserRouter>
     )
   }
 }
