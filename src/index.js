@@ -1,15 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-
-import './components/main.scss';
-import './components/header.scss';
 import './components/arrow.scss';
+import './components/header.scss';
+import './components/main.scss';
+import './components/scrollbar.scss'
 import './components/side-nav.scss';
 import './components/media-queries.scss'
-import './components/scrollbar.scss'
-
 
 import { Header } from './components/header.js'
 import { SideNav } from './components/side-nav.js'
@@ -34,11 +32,12 @@ import { Nfse } from './nfs-e.js'
 import { Nfs } from './nfs.js'
 import { NotaDeEntrada } from './nota-de-entrada.js'
 import { RelatorioDeMov } from './relatorio-de-mov.js'
+import { Notfound } from './components/notfound.js'
 
 class Manual extends React.Component {
   render(){
     return(
-      <BrowserRouter>
+      <BrowserRouter basename="/ManualWalleg">
         <Header/>
         <SideNav/>
         <Switch>
@@ -62,7 +61,7 @@ class Manual extends React.Component {
           <Route path="/nfs" component={Nfs} />
           <Route path="/nota-de-entrada" component={NotaDeEntrada} />
           <Route path="/relatorio" component={RelatorioDeMov} />
-          <Redirect to="/" />
+          <Route path="*" component={Notfound} />
         </Switch>
         <UpArrow />
       </BrowserRouter>
