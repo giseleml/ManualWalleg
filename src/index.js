@@ -32,7 +32,7 @@ import { Nfse } from './nfs-e.js'
 import { Nfs } from './nfs.js'
 import { NotaDeEntrada } from './nota-de-entrada.js'
 import { RelatorioDeMov } from './relatorio-de-mov.js'
-import { Notfound } from './components/notfound.js'
+import { NotFound } from './components/notfound.js'
 
 class Manual extends React.Component {
   render(){
@@ -61,7 +61,7 @@ class Manual extends React.Component {
           <Route path="/nfs" component={Nfs} />
           <Route path="/nota-de-entrada" component={NotaDeEntrada} />
           <Route path="/relatorio" component={RelatorioDeMov} />
-          <Route path="*" component={Notfound} />
+          <Route path="*" component={NotFound} />
         </Switch>
         <UpArrow />
       </BrowserRouter>

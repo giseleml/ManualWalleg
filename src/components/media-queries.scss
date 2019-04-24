@@ -8,9 +8,11 @@
     a {
     font-size: 1.6rem;
     line-height: 2.5rem;
+    margin-left: 0;
     }
     h1 {
     text-align: center;
+    margin-left: 0;
     }
   }
 
@@ -37,6 +39,7 @@
     max-height: 30rem;
     padding: 0;
   }
+
 //Reajuste de ícones para mobile
   #icone-clientes{
     @include alinhamento(0);

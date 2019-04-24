@@ -1,6 +1,6 @@
 import React from 'react'
 
-export class Notfound extends React.Component {
+export class NotFound extends React.Component {
   render(){
     return(
     <div className="main-content">
