@@ -13,7 +13,7 @@ export class Caixa extends React.Component {
       </p>
       <p>Desta forma, a seguinte janela abaixo será aberta.</p>
          <img
-         src="https://4.bp.blogspot.com/-KMcskr08f0c/W-RqtHF8hDI/AAAAAAAAAgc/N1gYxf8ukp0QskL4gDMroVSdNJ47dqqdwCLcBGAs/s1600/Tela%2BCaixa.png"
+         src="https://1.bp.blogspot.com/-qlTAMOqtEXU/XOwuXxT__gI/AAAAAAAAAyw/Oynmqb2ewl4TymAqwAqgvG2f-JroYB60gCLcBGAs/s1600/walleg-caixa.png"
          alt="Tela de Caixa Walleg"/>
       <p>
           Ao ser efetuado e gravado um pedido de Compra, automaticamente ele é encaminhado para o Caixa,
@@ -25,7 +25,7 @@ export class Caixa extends React.Component {
       <p><strong>Relatório</strong>: Para visualizar ou imprimir um Relatório do Caixa, clique no ícone “Relatórios” na Barra de Ferramentas.
           A seguinte janela será aberta:</p>
             <img
-            src="https://2.bp.blogspot.com/-YkFJ2TIxLjE/W4gYURKIElI/AAAAAAAAAZI/db-M8JhO5jw_bbztTEPf9T_Nx-c0cSEOQCLcBGAs/s1600/caixa%2Brelatorio.jpg"
+            src="https://1.bp.blogspot.com/-dDiJE7yyXKI/XOwvjpVWGdI/AAAAAAAAAy8/jLSqWHOb1wsjNxWcR9E4Yl6im7OoO5W1gCLcBGAs/s1600/walleg-caixa__relatorio.png"
             alt="Tela de Relatórios de Caixa Walleg"/>
       <p>Preencha os filtros conforme necessidade, escolha a impressora e confirme para gerar o relatório.</p>
       </div>

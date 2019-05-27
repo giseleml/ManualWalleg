@@ -35,7 +35,7 @@ export class Clientes extends React.Component {
           </ul>
       <p><strong>2) Informação e Preenchimento</strong></p>
           <img
-          src="https://3.bp.blogspot.com/-53BdOCjX3_Q/W4glRggxLlI/AAAAAAAAAZ4/_tlbAY8A9d4wjVtke61nL85bEN_RfeKIwCLcBGAs/s1600/info%2Be%2Bpreenchimento%2Bclientes.jpg"
+          src="https://1.bp.blogspot.com/-RS-fzUPOQpk/XOwl_3mgnnI/AAAAAAAAAvg/q-3KikXCJHoTf2sehZ0Tyftls2N9aRECACLcBGAs/s1600/walleg-clientes.png"
           alt="Tela de Informação e Preenchimento Walleg"/>
           <p>Nestes espaços o usuário terá disponível as opções de Informação e Preenchimento.
             Ao clicar em um cliente já cadastrado, todos os campos preenchidos no cadastro conterão suas respectivas informações.
@@ -48,7 +48,7 @@ export class Clientes extends React.Component {
           <p><strong>Relatório:</strong>Para visualizar ou imprimir um Relatório de Clientes, clique no ícone de impressora “Relatório de Clientes”.
            A seguinte janela será aberta:</p>
              <img
-             src="https://3.bp.blogspot.com/-lMZOb1I8wdc/W-RlzRCXC3I/AAAAAAAAAe8/vt-0R1NGVSYOqWSuqT053ZISjOuqJ_jzwCLcBGAs/s1600/Relatorio%2Bde%2Bclientes.png"
+             src="https://1.bp.blogspot.com/-0U74q9NaPsM/XOwmld7VxOI/AAAAAAAAAv0/NKuRMwYHn6ARMXHFDySi4hiEjx2LRw-FQCLcBGAs/s1600/walleg-relatorio-de-clientes.png"
             alt="Relatório de Clientes Walleg"/>
               <p>Preencha os filtros conforme necessidade e clique no botão de Salvar. Em seguida, o relatório será gerado.</p>
       </div>

@@ -13,14 +13,14 @@ export class Produtos extends React.Component {
         </p>
         <p>Desta forma, a seguinte janela abaixo será aberta. Para cadastrar um novo Produto, preencha os campos necessários e clique no botão Salvar.</p>
         <img
-        src="https://3.bp.blogspot.com/-fvSEdTaUUKU/W-Rohk_ZMLI/AAAAAAAAAfs/SkpVi2WFpPoFgaAfqVt_KFcdN1SnCayjgCLcBGAs/s1600/Tela%2BProdutos.png"
+        src="https://1.bp.blogspot.com/-TUb8BXOUc-0/XOwqO9_jh9I/AAAAAAAAAxE/BuXD6jlVeH4eCmwjYXvXrgntaNI-LzTzACLcBGAs/s1600/walleg-produtos__cadastro.png"
         alt= "Tela de Produtos Walleg"/>
         <p>Para editar um produto já cadastrado, clique na lupa de “Pesquisar” produto na Barra de Ferramentas.
         Caso necessário, utilize os filtros para pesquisar o produto.
         Clique duas vezes para abri-lo na tela de Produtos, edite os campos que deseja e clique “Salvar”.</p>
         <p><strong>Relatório:</strong> Para visualizar ou imprimir um Relatório de Produtos, clique no ícone de impressora “Relatórios”. A seguinte janela será aberta: </p>
           <img
-          src="https://1.bp.blogspot.com/-zuVcSHzM7uU/W-RohRRnEnI/AAAAAAAAAfo/uEJ-faVZL0QSvcpXc6fYQRHqHmJ62r5wgCLcBGAs/s1600/Relat%25C3%25B3rio%2BProdutos.png"
+          src="https://1.bp.blogspot.com/-bMLJkPqJ9j0/XOwqbv6IbnI/AAAAAAAAAxI/aSHcpcer114OTyfoJTzE5Z4nyDyKBEaNQCLcBGAs/s1600/walleg-produtos__relatorio.png"
           alt="Tela de Relatório de Produtos Walleg"/>
         <p>Preencha os filtros conforme necessidade e clique no ícone “Salvar”. Em seguida, o relatório será gerado.</p>
       </div>

@@ -13,7 +13,7 @@ export class NotaDeEntrada extends React.Component {
           </p>
           <p>Desta forma, a seguinte janela abaixo será aberta.</p>
             <img
-             src="https://3.bp.blogspot.com/-A7OFehBp_yE/W-Ru6uSv0HI/AAAAAAAAAhc/yGer6CHgXtM5uwVzRpmQXIWYUOp9ky5EgCLcBGAs/s1600/Tela%2Bde%2BNfe%2BEntrada.png"
+             src="https://1.bp.blogspot.com/-CEBOtePrWXo/XOw2HSa5HoI/AAAAAAAAA1I/6lcjL6fIh14Itqq9BogluFpnV3lctL_gQCLcBGAs/s1600/walleg-nfEntrada.png"
              alt="Tela de NF-e Walleg"/>
           <p>Na parte superior da janela, localiza-se a Barra de Ferramentas, respectivamente com as seguintes opções:</p>
             <ul>
@@ -51,13 +51,13 @@ export class NotaDeEntrada extends React.Component {
             <ol>
               <li>Ao abrir a tela Nota Fiscal de Entrada, clique no botão XML e localize nos arquivos de seu computador o XML desejado.</li>
                 <img id="nfe1"
-                 src="https://4.bp.blogspot.com/-w0wD4-cc35g/W-Rvm90u1dI/AAAAAAAAAh0/3n9pij_59VkGHhejilVwJ-VMT91vap5PACLcBGAs/s1600/Importar%2BXML%2BNfe%2BEntrada.png"
+                 src="https://1.bp.blogspot.com/-Z3BQNkYDuog/XOw2HdCZQZI/AAAAAAAAA1E/D465_2PVkA482PYRrvvcgvDSQKvEB0-1wCLcBGAs/s1600/walleg-nfeEntrada__2.png"
                    alt="Tela de Seleção do Arquivo XML"/>
               <li>Clique duas vezes no campo de Código que está vazio e preencha-o com o código do Produto interno, em seguida aperte ENTER.
               Aparecerá uma pequena tela de confirmação; <br/> Se selecionado "SIM" o sistema vinculará o Código e Produto do cliente com o código
               de seu banco de dados, sendo necessário fazer este passo apenas uma vez. Do contrário, não será salvo.</li>
                 <img id="nfe2"
-                 src="https://2.bp.blogspot.com/-U5Rjri195v4/W-Ru6jcXblI/AAAAAAAAAhk/cHiZDYTfjPwnt3wAT8DVoFFt6OXQiejcACLcBGAs/s1600/Entrada%2BNota%2BFiscal.png"
+                 src="https://1.bp.blogspot.com/-ETacgIiodRA/XOw2HTpCLII/AAAAAAAAA1M/qT0M9pgAX9YUj_hYnRloYBzwqTSnevV7ACLcBGAs/s1600/walleg-nfeEntrada__3.png"
                    alt="Tela de Código do Produto Nf-e Entrada"/>
               <li>Ao finalizar, clique no botão Processar para que a mesma entre no estoque.</li>
               </ol>

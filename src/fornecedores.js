@@ -12,7 +12,7 @@ export class Fornecedores extends React.Component {
         alt ="Botão Fornecedores Walleg"/>
       </p>
         <img
-        src="https://2.bp.blogspot.com/-3AA-KiB-uyc/W-Rmgo2yL4I/AAAAAAAAAfI/41UlWRyjN4wSzflsJygmLaWpf34tYpiFgCLcBGAs/s1600/Fornecedores.png"
+        src="https://1.bp.blogspot.com/-2XzMhnJq7xo/XOwnK8vZF_I/AAAAAAAAAwA/c5Ze5tyqyLwC_0kO6PrOLDaQf32g0UbewCLcBGAs/s1600/walleg-fornecedores.png"
         alt="Tela de Fornecedores Walleg"/>
       <p>Selecionando a opção “Fornecedores”, abrirá a janela mostrada acima. Para cadastrar um novo fornecedor,
       clique no ícone “Incluir Novo Fornecedor”. Preencha as informações de acordo com dados que possui, como: Razão Social, CNPJ,
@@ -27,7 +27,7 @@ export class Fornecedores extends React.Component {
       <p><strong>Relatório:</strong> Para visualizar ou imprimir um Relatório de Fornecedores,
       clique no ícone de impressora “Imprimir Documento”. A seguinte janela será aberta:</p>
       <img id="img-relatorio"
-          src="https://1.bp.blogspot.com/-wmyevTKRYOg/W-RmgssLI6I/AAAAAAAAAfE/Ynk1SpzzdzoTiQvL2IFJoCA-BagU7XqZgCLcBGAs/s1600/Fornecedores%2Brelat%25C3%25B3rio.png"
+          src="https://1.bp.blogspot.com/-ZHupqslFDEM/XOwnzt3V1-I/AAAAAAAAAwI/Thn2tdt2HW0Dz4kv_GXChdgnY2aPNngYwCLcBGAs/s1600/walleg-fornecedores__relat%25C3%25B3rio.png"
           alt="Tela de Relatorios Fornecedores Walleg"/>
 
       <p>Preencha os filtros conforme necessidade e clique no ícone de Impressora “Imprimir”. Em seguida, o relatório será gerado.</p>

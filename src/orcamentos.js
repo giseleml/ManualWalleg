@@ -13,7 +13,7 @@ export class Orcamentos extends React.Component {
       </p>
       <p> Desta forma, a seguinte janela abaixo será aberta.</p>
         <img
-        src="https://4.bp.blogspot.com/-rxXTk9Bq6Lc/W-RsJ5lJyhI/AAAAAAAAAg4/-doX14cET_IFa-WSDX8TVp_0mc_3ZcvbQCLcBGAs/s1600/Tela%2Bde%2BOr%25C3%25A7amentos%2B.png"
+        src="https://1.bp.blogspot.com/-epsugM1neDo/XOwxQB8KtYI/AAAAAAAAAzg/tA4bksDC-ioH-HbsqruolHegfEEq_3jQgCLcBGAs/s1600/walleg-or%25C3%25A7amentos.png"
         alt="Tela de Orçamentos Walleg"/>
       <p>Está janela é utilizada para oferecer ao usuário controle de todos os Orçamentos emitidos.
       Além de poder arquivá-los, existe a possibilidade de emiti-los em um documento de apresentação utilizando a opção “Imprimir”.</p>

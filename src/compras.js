@@ -14,12 +14,12 @@ export class Compras extends React.Component {
           </p>
           <p>Desta forma, a seguinte janela abaixo será aberta.</p>
             <img
-            src="https://2.bp.blogspot.com/-pkrRcM3OFiw/W-RrgIfk9iI/AAAAAAAAAgs/j9qurOkavOwBjP5TMnkCr5zJ3ZZ43yEJACLcBGAs/s1600/Tela%2Bde%2BCompras.png"
+            src="https://1.bp.blogspot.com/-k1M_Zq3WElI/XOwwZxq55MI/AAAAAAAAAzI/9Naz7eBKPFsnbJkPim7DRW7hB-QvCMFdQCLcBGAs/s1600/walleg-compras.png"
             alt="Tela de Compras Walleg"/>
           <p>Para fazer um novo pedido de Compras, informe o Código do Fornecedor. Caso não saiba o número,
           clique no botão Pesquisar ao lado da descrição, conforme imagem abaixo.</p>
             <img
-            src="https://4.bp.blogspot.com/-8zT_tL1PEUg/W-RrgO0sRlI/AAAAAAAAAgo/T43Hgs3p6dYUAc2oEFnWmQfyrLQzKJsJACLcBGAs/s1600/Buscar%2BFornecedor.png"
+            src="https://1.bp.blogspot.com/-o-lvvlgzhuo/XOwwZwVMRZI/AAAAAAAAAzE/G-viE6Ce1i0ssM4EBSdaPNwDd3zF-pEkgCLcBGAs/s1600/walleg-compras__busca.png"
              alt="Preenchimento de Código de Fornecedor Walleg"/>
           <p>
           Após preencher o número do Fornecedor, informe o Código do Produto que deseja comprar, a quantidade, data de entrega,

@@ -14,7 +14,7 @@ export class PedidoDeVenda extends React.Component {
           </p>
           <p>Desta forma, a seguinte janela abaixo será aberta.</p>
             <img
-             src="https://2.bp.blogspot.com/-Ub0FYEUQkw8/W4gWrcVt65I/AAAAAAAAAWU/Axi7lC6LveICEZP6k3mepEASFyBNPlSmACLcBGAs/s1600/pedidos%2Btela.jpg"
+             src="https://1.bp.blogspot.com/-WQEtsweB6a8/XOwyen5kmPI/AAAAAAAAAzw/y4lo_kYbXk489Xt_tCwy6s-E6aeLBhy6gCLcBGAs/s1600/walleg-pedidos.png"
              alt="Tela de Pedido Walleg"/>
           <p>Para realizar um novo pedido, preencha os campos informando o Código do Cliente, o Código, nome OU referência do Produto,
           a Operação e o Vendedor. Após terminar, clique em GRAVAR.</p>
@@ -36,7 +36,7 @@ export class PedidoDeVenda extends React.Component {
             </ul>
           <p><strong>Relatório</strong>: Para visualizar ou imprimir um Relatório de Pedidos, clique no ícone “Relatórios” na Barra de Ferramentas. A seguinte janela será aberta: </p>
             <img
-             src="https://1.bp.blogspot.com/-6IfW-AwZUB0/W4gWrcZUDII/AAAAAAAAAWY/7ZTX6O2h0p802ahy1KMt0sU8crf5OKlUwCLcBGAs/s1600/pedidos%2Brelatorio.jpg"
+             src="https://1.bp.blogspot.com/-ShB2zd2qVZk/XOwzOLMylGI/AAAAAAAAA0E/yj1qkq4U12YRdX-hHVJzWwY6vqkmFM0FQCLcBGAs/s1600/walleg-pedidos__relatorio.png"
              alt="Relatório de Pedidos Walleg"/>
           <p>Preencha os filtros conforme necessidade, escolha a impressora e clique no botão Salvar para gerar o relatório.</p>
         </div>

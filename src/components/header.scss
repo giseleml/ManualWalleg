@@ -6,8 +6,9 @@
     height: 8rem;
     display: flex;
     align-items: center;
+
     a {
-    font-family: 'Poiret One', cursive;
+    font-family: $poiret-font;
     font-size: 1.2rem;
     text-decoration: none;
     text-align: center;
@@ -21,9 +22,9 @@
     margin-top: -1rem;
   }
     h1{
-    font-family: 'Audiowide', cursive;
-    font-weight: lighter;
-    font-size: 2rem;
+    font-family: $poiret-font;
+    font-weight: bold;
+    font-size: 3rem;
     color: #bfd9fe;
     text-shadow: 4px 4px 0px #243949;
     margin-left: 5rem;

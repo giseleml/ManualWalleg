@@ -7,7 +7,7 @@ export class LoginInicio extends React.Component {
         <div id="login-inicio">
           <h1>Login e Inicio</h1>
             <img
-            src="https://1.bp.blogspot.com/-RY14hO7pKYU/W-MLpPbrW7I/AAAAAAAAAd8/cNJw5jivIuAFugns0Hctb5fRN3JzHBFSgCLcBGAs/s1600/LOGIN_WALLEG.png"
+            src="https://1.bp.blogspot.com/--Q2MN8fDUQE/XOweAgaCkUI/AAAAAAAAAuU/93S00-QaOLETI7lJD5RUx9PY3hZj5Q56gCLcBGAs/s1600/walleg-login.png"
             alt="Tela de Login Walleg"/>
           <p>Na figura acima há três caixas, que correspondem respectivamente à:</p>
             <ol>
@@ -28,12 +28,12 @@ export class LoginInicio extends React.Component {
           <p>É recomendado que se crie outro usuário com as configurações desejadas.
           Para criar um <strong>novo usuário</strong>, basta entrar no Walleg com o usuário padrão e selecionar a opção <u>Usuários</u>.
             <img id="icone-usuarios"
-            src="https://4.bp.blogspot.com/-_gcJ9hkKIUU/W-MMMoI9ykI/AAAAAAAAAeE/IKiW8kKVvbsilDnffD-hVnppUiBnZmEXwCLcBGAs/s1600/Usuarios%2Bbotao.png"
+            src="https://1.bp.blogspot.com/-pVASzy3EdNU/XOwe0Y1llmI/AAAAAAAAAuc/3YK4bCQCuJ0qj-N8_68eLHNEhyMXeybiwCLcBGAs/s1600/walleg-usuarios__bot%25C3%25A3o.png"
             alt="Botão de Usuários Walleg"/>
             </p>
             <img
-            src="https://4.bp.blogspot.com/-90vuKGVEgWc/W-RiRk41h4I/AAAAAAAAAeQ/LkAGVIWzl9oLpwbwYIogrjBWXVSvscSyACLcBGAs/s1600/Usuarios%2Bbarra%2Bferramentas.png"
-            alt ="Barra de Ferramentas de Usuarios Walleg"/>
+            src="https://1.bp.blogspot.com/-OnNKcBEClAM/XOwfbAOQHyI/AAAAAAAAAuk/UHhL-vVmAQkPE-TS0Adgo8rMeAC1dm6bwCLcBGAs/s1600/walleg-usuarios__menu.png"
+            alt ="Barra de Ferramentas de Usuários Walleg"/>
             <ul>
               <li>Liberar usuário: Caso houver uma queda de sistema, utilize essa opção para liberar um novo acesso ao usuário.</li>
               <li>Clonar: Utiliza das permissões e acessos de um usuário já existente para fornecer acesso a outro usuário.</li>

@@ -13,7 +13,7 @@ export class Nfs extends React.Component {
       </p>
       <p>Desta forma, a seguinte janela abaixo será aberta.</p>
         <img
-         src="https://2.bp.blogspot.com/-tP9tN7WnTgw/W-RtTzE58cI/AAAAAAAAAhQ/pmr0zMTiunc3JdjvyapTUi-M4MM_CPbewCLcBGAs/s1600/Tela%2Bde%2BNfe%2BVenda.png"
+         src="https://1.bp.blogspot.com/-AbPYMf0fM9U/XOw0KYZ8YfI/AAAAAAAAA0s/m1ZYQdVcExAssZgswDS4mlzg47sgtgXQACLcBGAs/s1600/walleg-nfeVenda.png"
          alt="Tela de Nota Fiscal de Saida Walleg"/>
       <p>Na parte superior da janela, localiza-se a Barra de Ferramentas, respectivamente com as seguintes opções:</p>
         <ul>

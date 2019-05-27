@@ -1,11 +1,10 @@
 //Fontes
 $default-font: 'Quicksand', sans-serif;
+$poiret-font: 'Poiret One', cursive;
+
 //Cores
 $beige-color: #eacda3;
 $golden-light: #DBD65C;
-$bg-color: linear-gradient(to right, #2b5876 0%, #4e4376 100%);
+//Latest bg (purple gradient) $bg-color: linear-gradient(to right, #2b5876 0%, #4e4376 100%);
+$bg-color: linear-gradient(to right, #16222a, #3a6073);
 $lilac-color: #d4cfe2;
-//Medidas
-@mixin alinhamento($rem){
-  margin-left: $rem;
-}

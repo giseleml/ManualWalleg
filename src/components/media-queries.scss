@@ -5,9 +5,10 @@
     width: auto;
     height: auto;
     flex-direction: column;
+
     a {
     font-size: 1.6rem;
-    line-height: 2.5rem;
+    line-height: 3rem;
     margin-left: 0;
     }
     h1 {
@@ -17,8 +18,8 @@
   }
 
   #logo-walleg {
-    width: 15rem;
-    height: 5rem;
+    max-width: 15rem;
+    max-height: 5rem;
   }
 
   .side-nav{
@@ -29,57 +30,31 @@
     margin-top: 0.5rem;
   }
 
-  .side-nav-info img{
+  .side-nav-info img {
     visibility: hidden;
   }
 
-  .main-content{
+  .main-content {
     img {
-    max-width: 18rem;
-    max-height: 30rem;
+    max-width: 100%;
+    max-height: 100%;
     padding: 0;
   }
 
-//Reajuste de ícones para mobile
-  #icone-clientes{
-    @include alinhamento(0);
-  }
-  #icone-fornecedores{
-    @include alinhamento(0);
-  }
-  #icone-produtos{
-    @include alinhamento(0);
-  }
-  #icone-caixa{
-    @include alinhamento(0);
-  }
-  #icone-compras{
-    @include alinhamento(0);
-  }
-  #icone-orçamentos{
-    @include alinhamento(0);
-  }
-  #icone-nfs{
-    @include alinhamento(0);
-  }
-  #icone-nfe{
-    @include alinhamento(0);
-  }
-//fim
-
-  p{
-    font-size: 0.8rem;
+  p {
+    font-size: 0.9rem;
     margin-left: 1rem;
   }
+
   li, ul, ol {
     font-size: 0.9rem;
     margin-left: 2rem;
   }
+  
   h2 {
     font-size: 1.5rem;
   }
 }
-
   .up-arrow {
     visibility: visible;
   }
@@ -98,10 +73,12 @@
     text-align: center;
   }
   .main-content img{
-    max-width: 25rem;
+    max-width: 28rem;
     max-height: 30rem;
+    margin-left: 25rem;
   }
   .header h1{
+    font-size: 2.3rem;
     text-align: center;
   }
   .side-nav {
