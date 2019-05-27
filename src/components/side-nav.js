@@ -6,7 +6,7 @@ export class SideNav extends React.Component {
     return(
       <div>
       <div className="side-nav-info">
-        <img id="logo-walleg" src="https://1.bp.blogspot.com/-4FUIO0Ilai8/XOwa6SmESEI/AAAAAAAAAt8/_N07xDpIzu4d8tyzBGbNewncfOr6MDLtACLcBGAs/s1600/walleg-logo.png" alt = "Logo Walleg"/>
+        <img className="logo-walleg" src="https://1.bp.blogspot.com/-4FUIO0Ilai8/XOwa6SmESEI/AAAAAAAAAt8/_N07xDpIzu4d8tyzBGbNewncfOr6MDLtACLcBGAs/s1600/walleg-logo.png" alt = "Logo Walleg"/>
       </div>
       <div className="side-nav">
         <Link to="/">Login e Início</Link>
