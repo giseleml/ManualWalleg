@@ -1,4 +1,11 @@
 {
   "short_name": "Manual Walleg",
   "name": "Manual Walleg - Walleg.com.br",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-4FUIO0Ilai8/XOwa6SmESEI/AAAAAAAAAt8/_N07xDpIzu4d8tyzBGbNewncfOr6MDLtACLcBGAs/s1600/walleg-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
