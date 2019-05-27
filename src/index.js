@@ -26,6 +26,7 @@ import { CatalogoKits } from './catalogo-de-kits'
 import { Transportadoras } from './transportadoras.js'
 import { Caixa } from './caixa.js'
 import { Compras } from './compras.js'
+import { Contas } from './contas.js'
 import { Orcamentos } from './orcamentos.js'
 import { PedidoDeVenda } from './pedido-de-venda.js'
 import { Nfse } from './nfs-e.js'
@@ -55,6 +56,7 @@ class Manual extends React.Component {
           <Route path="/transportadoras" component={Transportadoras} />
           <Route path="/caixa" component={Caixa} />
           <Route path="/compras" component={Compras} />
+          <Route path="/contas" component={Contas} />
           <Route path="/orcamentos" component={Orcamentos} />
           <Route path="/pedido-de-venda" component={PedidoDeVenda} />
           <Route path="/nfs-e" component={Nfse} />

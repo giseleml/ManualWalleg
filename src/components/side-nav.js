@@ -23,6 +23,7 @@ export class SideNav extends React.Component {
         <Link to="/transportadoras">Transportadoras</Link>
         <Link to="/caixa">Caixa</Link>
         <Link to="/compras">Compras</Link>
+        <Link to="/contas">Contas</Link>
         <Link to="orcamentos">Orçamentos</Link>
         <Link to="/pedido-de-venda">Pedido de Venda</Link>
         <Link to="/nfs-e">Nota Fiscal de Serviço (NFS-e)</Link>
