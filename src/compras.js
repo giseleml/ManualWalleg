@@ -8,7 +8,7 @@ export class Compras extends React.Component {
           <h1> Compras</h1>
           <p>
           Para acessar a opção Compras, selecione o ícone “<u>Compras</u>” na Barra de Ferramentas.
-            <img id="icone-compras"
+            <img 
             src="https://3.bp.blogspot.com/-r3NqkkkQYu8/W4gXtzjL4MI/AAAAAAAAAYE/uinvzMdXWtEdaBVL2fRY_n8J5gdXp-GjACLcBGAs/s1600/compras%2Bbotao.jpg"
             alt="Icone de Compras Walleg"/>
           </p>

@@ -7,7 +7,7 @@ export class Fornecedores extends React.Component {
       <div id="fornecedores">
       <h1>Fornecedores</h1>
       <p>Para acessar o Cadastro de Fornecedores, selecione o ícone "<u>Fornecedores</u>" na Barra de Ferramentas.
-        <img id="icone-fornecedores"
+        <img 
         src="https://3.bp.blogspot.com/-ZLgvAhzVBN4/W4gXemPv-uI/AAAAAAAAAXo/X8-WOBdBtpMrHAIiV3RbsYQLBx91hFveACLcBGAs/s1600/fornecedores%2Bbotao.jpg"
         alt ="Botão Fornecedores Walleg"/>
       </p>
@@ -26,7 +26,7 @@ export class Fornecedores extends React.Component {
       <p>Na parte inferior da janela de Cadastro estão os atalhos que podem ser usados para os botões de comando.</p>
       <p><strong>Relatório:</strong> Para visualizar ou imprimir um Relatório de Fornecedores,
       clique no ícone de impressora “Imprimir Documento”. A seguinte janela será aberta:</p>
-      <img id="img-relatorio"
+      <img
           src="https://1.bp.blogspot.com/-ZHupqslFDEM/XOwnzt3V1-I/AAAAAAAAAwI/Thn2tdt2HW0Dz4kv_GXChdgnY2aPNngYwCLcBGAs/s1600/walleg-fornecedores__relat%25C3%25B3rio.png"
           alt="Tela de Relatorios Fornecedores Walleg"/>
 

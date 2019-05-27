@@ -7,7 +7,7 @@ export class Nfs extends React.Component {
       <div id="nfs">
       <h1>Nota Fiscal de Saída</h1>
       <p>Para acessar a opção Nota Fiscal de Saída, selecione o ícone “<u>NF-e Venda</u>” na Barra de Ferramentas.
-        <img id="icone-nfs"
+        <img
         src="https://1.bp.blogspot.com/-AW4_GEqsmh8/W4gW87Vv_MI/AAAAAAAAAW0/YyXBPWoxzEI_i1dMlKogEf3F12ILxz7_gCLcBGAs/s1600/nf-e%2Bsaida%2Bvenda%2Bbotao.jpg"
         alt="Icone de Nota Fiscal de Saida Walleg"/>
       </p>

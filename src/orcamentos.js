@@ -7,7 +7,7 @@ export class Orcamentos extends React.Component {
         <div id="orcamentos">
         <h1>Orçamentos</h1>
       <p>Para acessar a opção Orçamentos, selecione o ícone “<u>Orçamentos</u>” na Barra de Ferramentas.
-        <img id="icone-orçamentos"
+        <img
         src="https://2.bp.blogspot.com/-1ptIkVbzaoc/W4gXt867VsI/AAAAAAAAAYk/Y9zJcEXBv54ODJFVyo9jmIEBJaqNnS1MwCEwYBhgL/s1600/botao%2Bor%25C3%25A7amentos.jpg"
         alt="Botão de Orçamentos Walleg"/>
       </p>

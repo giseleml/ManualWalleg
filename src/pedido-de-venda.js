@@ -8,7 +8,7 @@ export class PedidoDeVenda extends React.Component {
           <h1>Pedido de Venda</h1>
           <p>
           Para acessar a opção Pedidos de Venda, selecione o ícone “Pedido” na Barra de Ferramentas.
-            <img className="walleg-icon"
+            <img
              src="https://1.bp.blogspot.com/-vX1iJOgRk44/W4gWrlWj2sI/AAAAAAAAAWc/jKKMsP4vPM8R94daa2HRoPFZiNnYXeVmQCLcBGAs/s1600/pedidos%2Bvenda.jpg"
              alt="Botão de Pedido Walleg"/>
           </p>

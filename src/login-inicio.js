@@ -27,7 +27,7 @@ export class LoginInicio extends React.Component {
           <p><em>Senha: 1</em></p>
           <p>É recomendado que se crie outro usuário com as configurações desejadas.
           Para criar um <strong>novo usuário</strong>, basta entrar no Walleg com o usuário padrão e selecionar a opção <u>Usuários</u>.
-            <img id="icone-usuarios"
+            <img
             src="https://1.bp.blogspot.com/-pVASzy3EdNU/XOwe0Y1llmI/AAAAAAAAAuc/3YK4bCQCuJ0qj-N8_68eLHNEhyMXeybiwCLcBGAs/s1600/walleg-usuarios__bot%25C3%25A3o.png"
             alt="Botão de Usuários Walleg"/>
             </p>

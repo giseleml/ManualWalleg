@@ -7,7 +7,7 @@ export class NotaDeEntrada extends React.Component {
           <div id="nota-de-entrada">
           <h1>Nota Fiscal de Entrada</h1>
           <p>Para acessar a opção Nota Fiscal de Entrada, selecione o ícone “<u>NF-e Entrada</u>” na Barra de Ferramentas.
-            <img id="icone-nfe"
+            <img
             src="https://1.bp.blogspot.com/-wIdv743pdIM/W4gXFA6vqMI/AAAAAAAAAXE/Trn0GFU_pckZpgODG6H-y9t3CRVDt4VbQCLcBGAs/s1600/nfe-e%2Bentrada%2Bbotao.jpg"
             alt= "Icone de NF-e Walleg"/>
           </p>
@@ -50,13 +50,13 @@ export class NotaDeEntrada extends React.Component {
           <p>2) Automática:</p>
             <ol>
               <li>Ao abrir a tela Nota Fiscal de Entrada, clique no botão XML e localize nos arquivos de seu computador o XML desejado.</li>
-                <img id="nfe1"
+                <img
                  src="https://1.bp.blogspot.com/-Z3BQNkYDuog/XOw2HdCZQZI/AAAAAAAAA1E/D465_2PVkA482PYRrvvcgvDSQKvEB0-1wCLcBGAs/s1600/walleg-nfeEntrada__2.png"
                    alt="Tela de Seleção do Arquivo XML"/>
               <li>Clique duas vezes no campo de Código que está vazio e preencha-o com o código do Produto interno, em seguida aperte ENTER.
               Aparecerá uma pequena tela de confirmação; <br/> Se selecionado "SIM" o sistema vinculará o Código e Produto do cliente com o código
               de seu banco de dados, sendo necessário fazer este passo apenas uma vez. Do contrário, não será salvo.</li>
-                <img id="nfe2"
+                <img
                  src="https://1.bp.blogspot.com/-ETacgIiodRA/XOw2HTpCLII/AAAAAAAAA1M/qT0M9pgAX9YUj_hYnRloYBzwqTSnevV7ACLcBGAs/s1600/walleg-nfeEntrada__3.png"
                    alt="Tela de Código do Produto Nf-e Entrada"/>
               <li>Ao finalizar, clique no botão Processar para que a mesma entre no estoque.</li>

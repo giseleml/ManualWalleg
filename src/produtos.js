@@ -7,7 +7,7 @@ export class Produtos extends React.Component {
         <div id="produtos">
         <h1>Produtos</h1>
         <p>Para acessar o Cadastro de Produtos, selecione o ícone “<u>Produtos</u>” na Barra de Ferramentas.
-          <img id="icone-produtos"
+          <img
           src="https://4.bp.blogspot.com/-MRk8AATA9Oo/W4gWkwPL4uI/AAAAAAAAAWA/yVfh7foe6l43yoAoKPMm1M5BkI4KpD-vgCLcBGAs/s1600/produtos%2Bbotao.jpg"
           alt= "Ícone de Produtos Walleg"/>
         </p>

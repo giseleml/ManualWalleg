@@ -7,7 +7,7 @@ export class Caixa extends React.Component {
       <div id="caixa">
       <h1>Caixa</h1>
       <p>Para acessar a opção Caixa, selecione o ícone “<u>Caixa</u>” na Barra de Ferramentas.
-         <img id="icone-caixa"
+         <img
          src="https://4.bp.blogspot.com/-iv6sv8VOo0A/W4gYUINKBGI/AAAAAAAAAZA/f50TMAzShd8FAKyptcVmojDHoOXpXJPDgCLcBGAs/s1600/caixa%2Bbotao.jpg"
          alt="Icone de Caixa Walleg"/>
       </p>

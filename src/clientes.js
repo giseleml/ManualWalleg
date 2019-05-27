@@ -7,7 +7,7 @@ export class Clientes extends React.Component {
       <div id="clientes">
       <h1>Clientes</h1>
       <p>Para acessar o Cadastro de Clientes, selecione o ícone "<u>Clientes</u>" na Barra de Ferramentas.
-        <img id="icone-clientes"
+        <img
         src="https://3.bp.blogspot.com/-xFCCiSjXLBU/W4gYLItx2-I/AAAAAAAAAYs/dwyCfE-FKtcFJLlD-SMkoU1H923gkhYXACLcBGAs/s1600/Clientes%2Bbotao.jpg"
         alt="Botão de Clientes Walleg"/>
       </p>
