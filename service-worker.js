@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ManualWalleg/precache-manifest.d291a1ab064f5492e9cef3076ab66f74.js"
+  "/ManualWalleg/precache-manifest.c1617f2ca030cda81ea32f5f765a5082.js"
 );
 
 workbox.clientsClaim();
