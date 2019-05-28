@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 import './components/arrow.scss';
 import './components/header.scss';
@@ -38,7 +38,7 @@ import { NotFound } from './components/notfound.js'
 class Manual extends React.Component {
   render(){
     return(
-      <BrowserRouter basename="/ManualWalleg">
+      <HashRouter>
         <Header/>
         <SideNav/>
         <Switch>
@@ -66,7 +66,7 @@ class Manual extends React.Component {
           <Route path="*" component={NotFound} />
         </Switch>
         <UpArrow />
-      </BrowserRouter>
+      </HashRouter>
     )
   }
 }
