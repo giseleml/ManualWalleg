@@ -20,7 +20,7 @@ export class Contas extends React.Component {
 
       <h2>2. Gerando Boletos Mensais</h2>
         <p>Acesse Contas > Receber > Recebimentos.</p>
-        <p>Clique no ícone "Agenda" e em seguida escolha a opção "selecionar todos" OU aperte Ctrl + A no seu teclado.</p>
+        <p>Clique no ícone "Agenda".</p>
         <p>Escolha o Mês e Ano das parcelas que deseja criar.</p>
         <img src="https://1.bp.blogspot.com/-VvcJxTqwNWE/XOxM_4o38AI/AAAAAAAAA2I/Xj5gTRzEmds8PmFllO5pYU4CZYDHeUMeQCLcBGAs/s1600/walleg-contas__agendamentos.png"
         alt="Opções de escolher Mês e Ano das Parcelas Walleg" />
