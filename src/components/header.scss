@@ -6,6 +6,7 @@
     height: 8rem;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 
     a {
     font-family: $poiret-font;
@@ -13,7 +14,7 @@
     text-decoration: none;
     text-align: center;
     color: white;
-    margin-left: 3.3rem;
+
     text-shadow: 3px 3px 5px #006699;
   }
     a:hover{
