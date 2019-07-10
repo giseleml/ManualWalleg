@@ -2,7 +2,7 @@
   "name": "manual",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://giseleml.github.io/ManualWalleg/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "less": "^3.8.1",

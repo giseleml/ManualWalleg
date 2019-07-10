@@ -1,26 +1,19 @@
 @import '_variables.scss';
 
   body {
-    background-image: $bg-color;
+    background-color: #19242c;
   }
   .main-content {
     h1 {
       font-family: $poiret-font, cursive;
       font-size: 2.5rem;
-      color: white;
+      color: #cccccc;
       text-align: center;
-      text-shadow: 2px 2px 15px $golden-light;
-    }
-
-    h2 {
-      font-family: $default-font;
-      text-align: center;
-      color: rgb(182, 199, 255);
     }
     p {
       font-family: $default-font;
       font-size: 1rem;
-      color: #d1e0e0;
+      color: #dbdbdb;
       display: block;
       text-align: left;
       margin-left: 18rem;
@@ -28,8 +21,8 @@
     }
     ul, li, ol {
       font-family: $default-font;
-      font-size: rem;
-      color: #ddb071;
+      font-size: 1rem;
+      color: #b3daff;
       text-align: left;
       margin-left: 9rem;
       line-height: 2rem;
