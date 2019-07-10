@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ManualWalleg/static/js/runtime~main.641b4182.js"
   },
   {
-    "revision": "f1a19eea095634145cb3",
-    "url": "/ManualWalleg/static/js/main.f1a19eea.chunk.js"
+    "revision": "c2a424933b07741c51fb",
+    "url": "/ManualWalleg/static/js/main.c2a42493.chunk.js"
   },
   {
     "revision": "682a1eda9b8221f80fc7",
     "url": "/ManualWalleg/static/js/1.682a1eda.chunk.js"
   },
   {
-    "revision": "f1a19eea095634145cb3",
-    "url": "/ManualWalleg/static/css/main.09b91568.chunk.css"
+    "revision": "c2a424933b07741c51fb",
+    "url": "/ManualWalleg/static/css/main.5af1038d.chunk.css"
   },
   {
-    "revision": "4058e02e24da03c29d995805c58cf893",
+    "revision": "41f2ff3de1c093a9f3a6e511d284039c",
     "url": "/ManualWalleg/index.html"
   }
 ];
