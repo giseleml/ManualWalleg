@@ -1,13 +1,13 @@
 @import '_variables.scss';
 
 ::-webkit-scrollbar-track{
-	background-color: #3a6073;
+	background-color: grey;
 }
 ::-webkit-scrollbar{
-	width: 10px;
+	width: 6px;
 }
 ::-webkit-scrollbar-thumb{
-	background-color: $lilac-color;
+	background-color: $light-blue;
 	border-radius: 2px;
 	-webkit-box-shadow: inset 0px 2px 6px rgba(0,0,0,0.3);
 }

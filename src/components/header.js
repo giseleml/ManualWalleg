@@ -5,7 +5,7 @@ export class Header extends React.Component {
     return(
       <div className="header">
         <img className="logo-walleg" src="https://1.bp.blogspot.com/--8K7QPoVvdg/XO1ZmPR_l4I/AAAAAAAAA3Q/gu1RRp4YDGAvkl1H1NBSbSNS_gKHQ7MQgCLcBGAs/s1600/walleg-logo.png" alt = "Logo Walleg"/>
-        <h1>Manual de Utilização</h1>
+        <h1>MANUAL DE UTILIZAÇÃO</h1>
         <a href="http://walleg.com.br/home" target="_blank" rel="noopener noreferrer">Ir para o Site Walleg</a>
       </div>
     )

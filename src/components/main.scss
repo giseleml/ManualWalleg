@@ -3,7 +3,7 @@
   body {
     background-color: #19242c;
   }
-
+  
   .main-content {
 
     h1 {
@@ -11,11 +11,19 @@
       font-size: 2rem;
       color: wheat;
       text-align: center;
+      font-variant: small-caps;
+    }
+
+    h2 {
+      font-family: $header-font, cursive;
+      font-size: 1.5rem;
+      color: wheat;
+      text-align: center;
     }
     
     p {
       font-family: $default-font;
-      font-size: 3rem;
+      font-size: 1rem !important; 
       color: #dbdbdb;
       display: block;
       text-align: left;
@@ -25,20 +33,21 @@
     
     ul, li, ol {
       font-family: $default-font;
-      font-size: 0.75rem;
-      color: #b3daff;
+      font-size: 1rem !important;
+      color: $light-blue;
       text-align: left;
       margin-left: 9rem;
       line-height: 2rem;
     }
+
     img {
       display: block;
       margin: auto auto;
       max-width: 60%;
       max-height: 70%;
     }
-    
   }
+
   .up-arrow {
     visibility: hidden;
   }
