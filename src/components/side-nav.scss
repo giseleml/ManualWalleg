@@ -1,20 +1,20 @@
 @import '_variables.scss';
 
 .side-nav {
- 
   .side-nav-menu {
     height: auto;
-    width: 15rem; 
+    bottom: auto;
+    width: 16rem; 
     position: fixed; 
     top: 15%; 
     left: 0;
-    bottom: auto;
-    overflow-y: scroll; 
+    bottom: 0;
+    overflow-y: scroll;
   }
   
     a {
-      font-family: $poiret-font;
-      font-size: 1.3rem;
+      font-family: $header-font;
+      font-size: 1.7rem;
       color: white;
       text-decoration: none;
       display: block;
