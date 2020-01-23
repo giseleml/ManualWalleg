@@ -1,11 +1,11 @@
 import React from 'react'
 
-export class LoginInicio extends React.Component {
+export class Login extends React.Component {
   render() {
     return (
       <div className="main-content">
         <div id="login-inicio">
-          <h1>Login e Inicio</h1>
+          <h1>Login</h1>
             <img
             src="https://1.bp.blogspot.com/--Q2MN8fDUQE/XOweAgaCkUI/AAAAAAAAAuU/93S00-QaOLETI7lJD5RUx9PY3hZj5Q56gCLcBGAs/s1600/walleg-login.png"
             alt="Tela de Login Walleg"/>

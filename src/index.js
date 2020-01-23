@@ -11,8 +11,9 @@ import './components/media-queries.scss'
 
 import { Header } from './components/header.js'
 import { SideNav } from './components/side-nav.js'
+import { Intro } from './intro.js'
 import { UpArrow } from './components/arrow.js'
-import { LoginInicio } from './login-inicio.js'
+import { Login } from './login.js'
 import { TelaDeInicio } from './tela-de-inicio.js'
 import { Cadastros } from './cadastros.js'
 import { Bancos } from './bancos.js'
@@ -42,7 +43,8 @@ class Manual extends React.Component {
         <Header/>
         <SideNav/>
         <Switch>
-          <Route exact path="/" component={LoginInicio} />
+          <Route exact path="/" component={Intro} />
+          <Route path="/login" component={Login} />
           <Route path="/tela-inicial" component={TelaDeInicio} />
           <Route path="/cadastros" component={Cadastros} />
           <Route path="/bancos" component={Bancos} />

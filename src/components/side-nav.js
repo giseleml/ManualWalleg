@@ -12,7 +12,7 @@ export class SideNav extends React.Component {
         </div>
         <div className="side-nav-menu">
           {
-            linksToRoute.map(link => <Link to={link.url}>{link.title}</Link>)
+            linksToRoute.map((link, i) => <Link to={link.url} key={i}>{link.title}</Link>)
           }
         </div>
      </div>
