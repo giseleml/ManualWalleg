@@ -10,21 +10,23 @@
     left: 0;
     bottom: 0;
     overflow-y: scroll;
-    opacity: 0.6;
+    opacity: 0.5;
   }
   
     a {
-      font-family: $header-font;
-      font-size: 1.7rem;
+      font-family: 'Lucida Sans Unicode';
+      font-weight: lighter;
+      font-size: 1.3rem;
       color: white;
       text-decoration: none;
       display: block;
       text-align: left;
       padding-left: 1rem;
+      line-height: 3rem;
     }
     
     a:hover {
-      font-size: 2rem;
+      font-size: 1.7rem;
       font-weight: bold;
       color: black;
       background-color: $beige-color;
