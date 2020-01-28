@@ -3,26 +3,25 @@
 .side-nav {
   .side-nav-menu {
     height: auto;
-    bottom: auto;
     width: 16rem; 
     position: fixed; 
-    top: 15%; 
-    left: 0;
-    bottom: 0;
+    top: auto; 
+    left: auto;
+    bottom: auto;
     overflow-y: scroll;
-    opacity: 0.5;
+    opacity: 0.6;
   }
   
     a {
       font-family: 'Lucida Sans Unicode';
       font-weight: lighter;
-      font-size: 1.3rem;
+      font-size: 1rem;
       color: white;
       text-decoration: none;
       display: block;
       text-align: left;
       padding-left: 1rem;
-      line-height: 3rem;
+      line-height: 2rem;
     }
     
     a:hover {
