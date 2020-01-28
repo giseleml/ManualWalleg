@@ -4,10 +4,9 @@
   .side-nav-menu {
     height: auto;
     width: 16rem; 
-    position: fixed; 
-    top: auto; 
+    position: absolute; 
+    top: auto;
     left: auto;
-    bottom: auto;
     overflow-y: scroll;
     opacity: 0.6;
   }

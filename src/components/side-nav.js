@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 
-import linksToRoute from './links.js'
+import linksToRoute from './routes.js'
 
 export class SideNav extends React.Component {
   render() {
