@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fd22cc9f147e8d75400b",
-    "url": "/ManualWalleg/static/css/main.7ca253fd.chunk.css"
+    "revision": "7e845bd4f51702a3cebe",
+    "url": "/ManualWalleg/static/css/main.0a7017cc.chunk.css"
   },
   {
-    "revision": "fd22cc9f147e8d75400b",
-    "url": "/ManualWalleg/static/js/main.4b8d9f9c.chunk.js"
+    "revision": "7e845bd4f51702a3cebe",
+    "url": "/ManualWalleg/static/js/main.1ce9b621.chunk.js"
   },
   {
     "revision": "22668aeb2a227a63a1e3",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ManualWalleg/static/js/2.82668c50.chunk.js"
   },
   {
-    "revision": "17c915499cb7441f5c05fe0e59079568",
+    "revision": "c0268705c8f9f09d2a1244814ba27f95",
     "url": "/ManualWalleg/index.html"
   }
 ];
