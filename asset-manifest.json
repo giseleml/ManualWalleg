@@ -1,13 +1,13 @@
 {
-  "main.css": "/ManualWalleg/static/css/main.c7746ae0.chunk.css",
-  "main.js": "/ManualWalleg/static/js/main.6b4c3a86.chunk.js",
-  "main.js.map": "/ManualWalleg/static/js/main.6b4c3a86.chunk.js.map",
+  "main.css": "/ManualWalleg/static/css/main.7ca253fd.chunk.css",
+  "main.js": "/ManualWalleg/static/js/main.4b8d9f9c.chunk.js",
+  "main.js.map": "/ManualWalleg/static/js/main.4b8d9f9c.chunk.js.map",
   "runtime~main.js": "/ManualWalleg/static/js/runtime~main.db807e18.js",
   "runtime~main.js.map": "/ManualWalleg/static/js/runtime~main.db807e18.js.map",
   "static/js/2.82668c50.chunk.js": "/ManualWalleg/static/js/2.82668c50.chunk.js",
   "static/js/2.82668c50.chunk.js.map": "/ManualWalleg/static/js/2.82668c50.chunk.js.map",
   "index.html": "/ManualWalleg/index.html",
-  "precache-manifest.3f7980908231dd115ae212bd092aa129.js": "/ManualWalleg/precache-manifest.3f7980908231dd115ae212bd092aa129.js",
+  "precache-manifest.68d703275382088f04c43a71d61252f5.js": "/ManualWalleg/precache-manifest.68d703275382088f04c43a71d61252f5.js",
   "service-worker.js": "/ManualWalleg/service-worker.js",
-  "static/css/main.c7746ae0.chunk.css.map": "/ManualWalleg/static/css/main.c7746ae0.chunk.css.map"
+  "static/css/main.7ca253fd.chunk.css.map": "/ManualWalleg/static/css/main.7ca253fd.chunk.css.map"
 }
